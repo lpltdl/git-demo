@@ -9,4 +9,5 @@ Hello wudezhai! Hello Git!
 Hello wudezhai! Hello Git!
 Hello wudezhai! Hello Git!
 Hello wudezhai! Hello Git! master text
+Hello wudezhai! Hello Git! Hot-Fix fix
 Hello wudezhai! Hello Git!
