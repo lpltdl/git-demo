@@ -8,5 +8,5 @@ Hello wudezhai! Hello Git!
 Hello wudezhai! Hello Git!
 Hello wudezhai! Hello Git!
 Hello wudezhai! Hello Git!
-Hello wudezhai! Hello Git!
+Hello wudezhai! Hello Git! Hot-Fix fix
 Hello wudezhai! Hello Git!
