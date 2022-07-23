@@ -12,3 +12,4 @@ Hello wudezhai! Hello Git! master text
 Hello wudezhai! Hello Git! Hot-Fix fix
 Hello wudezhai! Hello Git!
 欲练此功，必先自宫！
+日出东方，唯我不败！
